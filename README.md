@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Addin Hadi Rizal!
 👨🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👨🏻‍🎓 Studied [Computer Science](https://uns.ac.id) at Sebelas Maret University, Indonesia<br/>
-✨ #learninginpublic in my [My Portfolio](https://addinrizal.netlify.app)<br/>
+✨ #LearnNewThings in my [My Portfolio](https://addinrizal.netlify.app)<br/>
 💭 Currently learning about [Machine Learning](https://www.youtube.com/watch?v=7IgVGSaQPaw&t=12s)!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
@@ -41,6 +41,6 @@
 [![How I would learn to code (if I could start over)](https://ytcards.demolab.com/?id=kS03mP7p0ts&title=How+I+would+learn+to+code+(+if+I+could+start+over+)&lang=en&timestamp=1698663600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=695 "How I would learn to code (if I could start over)")](https://youtu.be/kS03mP7p0ts?si=7UXbigeHmyTVGP60)
 [![How to prep for CS?](https://ytcards.demolab.com/?id=YBMf2o2MVDg&title=How+to+prep+for+CS?+Do+I+need+Maths?&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=860 "How to prep for CS? Do I need Maths?")](https://youtu.be/YBMf2o2MVDg?si=KGaQIzz_8E6JFYlD)
 [![How I organise my life with Notion](https://ytcards.demolab.com/?id=orJOLdv907g&title=How+I+organise+my+life+with+Notion&lang=en&timestamp=1616324400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "How I organise my life with Notion")](https://youtu.be/orJOLdv907g?si=r31zLR2hnvJiw5p7) -->
-<!-- END YOUTUBE-CARDS --> -->
+<!-- END YOUTUBE-CARDS --> 
 
 <!-- P.S. If you want to make a GitHub profile README like this, check out this [tutorial](https://youtu.be/DWFs6aqknqw?si=oX-In0gOUUZiqINh)! 😊 -->
