@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Addin Hadi Rizal!
 👨🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👨🏻‍🎓 Studied [Computer Science](https://uns.ac.id) at Sebelas Maret University, Indonesia<br/>
-✨ #LearnNewThings in my [My Portfolio](https://addinrizal.netlify.app)<br/>
+✨ #LearnNewThings in my [My Portfolio](https://addinrizal.vercel.app)<br/>
 💭 Currently learning about [Machine Learning](https://www.youtube.com/watch?v=7IgVGSaQPaw&t=12s)!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
